@@ -27,7 +27,7 @@
             if ((sesion.getAttribute("usuario")==null)==true) {
                 response.sendRedirect("../index.jsp");
             } else {
-                String servidor = "localhost:5432";
+                String servidor = "192.168.126.19:5432";
                 
                 String database = "senatics";
 
@@ -37,7 +37,7 @@
                 Class.forName("org.postgresql.Driver");
                 String url="jdbc:postgresql://"+servidor+"/"+database;
                 Connection conexion = null;
-                conexion = DriverManager.getConnection(url, "postgres", "paraguay");
+                conexion = DriverManager.getConnection(url, "css", "css");
                 Statement st = conexion.createStatement();
 
                 ResultSet rs = null;
