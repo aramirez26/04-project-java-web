@@ -5,10 +5,6 @@
  */
 package Controler;
 
-import org.junit.After;
-import org.junit.AfterClass;
-import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -19,22 +15,6 @@ import static org.junit.Assert.*;
 public class mensajes2Test {
     
     public mensajes2Test() {
-    }
-    
-    @BeforeClass
-    public static void setUpClass() {
-    }
-    
-    @AfterClass
-    public static void tearDownClass() {
-    }
-    
-    @Before
-    public void setUp() {
-    }
-    
-    @After
-    public void tearDown() {
     }
 
 /*    @Test
@@ -77,7 +57,7 @@ public class mensajes2Test {
 
     @Test
     public void testGenerarRespuesta() {
-        System.out.println("generarRespuesta");
+                System.out.println("generarRespuesta");
         mensajes2 instance = new mensajes2("falla de carga","error");
         String ubicacion = "images/error.png";
         String tipo = instance.tipo;
