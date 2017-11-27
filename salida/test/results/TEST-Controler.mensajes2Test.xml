@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="ANTONIORAMIREZ" name="Controler.mensajes2Test" skipped="0" tests="1" time="0.2" timestamp="2017-11-27T05:21:25">
+<testsuite errors="0" failures="0" hostname="ANTONIORAMIREZ" name="Controler.mensajes2Test" skipped="0" tests="1" time="0.091" timestamp="2017-11-27T05:28:50">
   <properties>
     <property name="libs.jdt-compiler-3.1.1.maven-pom" value="" />
     <property name="libs.jsp-compiler.javadoc" value="" />
@@ -71,7 +71,7 @@
     <property name="javax.xml.datatype.DatatypeFactory" value="com.sun.org.apache.xerces.internal.jaxp.datatype.DatatypeFactoryImpl" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
     <property name="libs.swing-layout.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner Controler.mensajes2Test skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\salida\test\results\TEST-Controler.mensajes2Test.xml crashfile=C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\build\junitvmwatcher2807619067141622644.properties propsfile=C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\build\junit755445245779070212.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner Controler.mensajes2Test skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\salida\test\results\TEST-Controler.mensajes2Test.xml crashfile=C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\build\junitvmwatcher5653872642097677343.properties propsfile=C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\build\junit3535847864555553063.properties" />
     <property name="build.classes.dir" value="build/web/WEB-INF/classes" />
     <property name="netbeans.accept_license_class" value="org.netbeans.license.AcceptLicense" />
     <property name="ap.supported.internal" value="true" />
@@ -94,6 +94,7 @@
     <property name="build.compiler.emacs" value="true" />
     <property name="libs.javaee-web-api-6.0.src" value="" />
     <property name="libs.jsp-compilation-syscp.classpath" value="C:\Program Files\NetBeans 8.2\extide\ant\lib\ant.jar;C:\Program Files\NetBeans 8.2\enterprise\modules\ext\servlet3.1-jsp2.3-api.jar;C:\Program Files\NetBeans 8.2\enterprise\modules\ext\glassfish-jspparser-4.0.jar;C:\Program Files\NetBeans 8.2\enterprise\modules\ext\jstl-impl.jar;C:\Program Files\NetBeans 8.2\enterprise\modules\ext\jsf-2_2\javax.faces.jar" />
+    <property name="nu.validator.checker.imageCandidateString.hasWidth" value="0" />
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_101\jre\lib\endorsed" />
     <property name="user.language.format" value="es" />
     <property name="libs.Comet-GlassFish-v3.maven-pom" value="" />
@@ -331,12 +332,12 @@
     <property name="dist.javadoc.dir" value="dist/javadoc" />
     <property name="libs.spring-webmvc3.0.classpath" value="C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-webmvc-3.2.7.RELEASE.jar" />
     <property name="libs.swing-layout.classpath" value="C:\Program Files\NetBeans 8.2\platform\modules\ext\swing-layout-1.0.4.jar" />
-    <property name="jspc.dtds" value="/resources/dtds/" />
     <property name="libs.javaee-web-api-7.0.maven-pom" value="" />
+    <property name="jspc.dtds" value="/resources/dtds/" />
     <property name="libs.restlib.src" value="" />
-    <property name="libs.JasperReports.maven-pom" value="" />
-    <property name="build.generated.dir" value="build/generated" />
     <property name="javac.source" value="1.8" />
+    <property name="build.generated.dir" value="build/generated" />
+    <property name="libs.JasperReports.maven-pom" value="" />
     <property name="line.separator" value="&#xd;&#xa;" />
     <property name="java.specification.version" value="1.8" />
     <property name="java.vm.info" value="mixed mode" />
@@ -361,16 +362,16 @@
     <property name="libs.struts.javadoc" value="C:\Program Files\NetBeans 8.2\enterprise\docs\struts-1.3.10-javadoc.zip" />
     <property name="ignore.failing.tests" value="true" />
     <property name="libs.Comet-GlassFish-v3.classpath" value="" />
-    <property name="libs.javaee-web-api-7.0.src" value="" />
     <property name="web.docbase.dir" value="web" />
+    <property name="libs.javaee-web-api-7.0.src" value="" />
     <property name="libs.primefaces.src" value="" />
     <property name="dist.dir" value="dist" />
     <property name="testng.debug.mode" value="" />
-    <property name="javac.fork" value="false" />
     <property name="libs.jdt-compiler-3.1.1.src" value="" />
+    <property name="javac.fork" value="false" />
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
-    <property name="platforms.JDK_1.7.compiler" value="modern" />
     <property name="default.javac.source" value="1.8" />
+    <property name="platforms.JDK_1.7.compiler" value="modern" />
     <property name="debug-transport-by-os" value="dt_shmem" />
     <property name="libs.MySQLDriver.src" value="" />
     <property name="sun.jnu.encoding" value="Cp1252" />
@@ -394,11 +395,11 @@
     <property name="excludes" value="" />
     <property name="ant.file.type.WebApplication-impl" value="file" />
     <property name="platforms.JDK_1.6.bootclasspath" value="C:\Program Files\Java\jdk1.6.0_45\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0_45\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0_45\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.6.0_45\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0_45\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0_45\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0_45\jre\lib\modules\jdk.boot.jar;C:\Program Files\Java\jdk1.6.0_45\jre\classes;C:\Program Files\Java\jdk1.6.0_45\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.6.0_45\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.6.0_45\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.6.0_45\jre\lib\ext\sunmscapi.jar" />
-    <property name="libs.restlib.maven-pom" value="" />
     <property name="libs.metro.classpath" value="C:\Program Files\NetBeans 8.2\ide\modules\ext\jaxb\activation.jar;C:\Program Files\NetBeans 8.2\enterprise\modules\ext\metro\webservices-api.jar;C:\Program Files\NetBeans 8.2\enterprise\modules\ext\metro\webservices-extra-api.jar;C:\Program Files\NetBeans 8.2\enterprise\modules\ext\metro\webservices-extra.jar;C:\Program Files\NetBeans 8.2\enterprise\modules\ext\metro\webservices-rt.jar;C:\Program Files\NetBeans 8.2\enterprise\modules\ext\metro\webservices-tools.jar" />
+    <property name="libs.restlib.maven-pom" value="" />
     <property name="libs.jpa2-persistence.javadoc" value="C:\Program Files\NetBeans 8.2\java\modules\ext\docs\javax.persistence-2.1.0-doc.zip" />
-    <property name="java.class.path" value="C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\lib\postgresql-9.4.1209.jar;C:\Program Files\NetBeans 8.2\platform\modules\ext\junit-4.12.jar;C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\lib\hamcrest-core-1.3.jar;C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\build\web\WEB-INF\classes;C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\build\test\classes;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\annotations-api.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\catalina-ant.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\catalina-ha.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\catalina-storeconfig.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\catalina-tribes.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\catalina.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\ecj-4.4.2.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\el-api.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\jasper-el.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\jasper.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\jsp-api.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\servlet-api.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-api.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-coyote.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-dbcp.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-i18n-es.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-i18n-fr.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-i18n-ja.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-jdbc.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-jni.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-util-scan.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-util.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-websocket.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\websocket-api.jar;C:\Program Files\NetBeans 8.2\extide\ant\lib\ant-launcher.jar;C:\Program Files\NetBeans 8.2\extide\ant\lib\ant.jar;C:\Program Files\NetBeans 8.2\extide\ant\lib\ant-junit.jar;C:\Program Files\NetBeans 8.2\extide\ant\lib\ant-junit4.jar" />
     <property name="apple.laf.useScreenMenuBar" value="true" />
+    <property name="java.class.path" value="C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\lib\postgresql-9.4.1209.jar;C:\Program Files\NetBeans 8.2\platform\modules\ext\junit-4.12.jar;C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\lib\hamcrest-core-1.3.jar;C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\build\web\WEB-INF\classes;C:\antonio\proyectos\senatics\04-proyecto_java_web\WebApplication\build\test\classes;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\annotations-api.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\catalina-ant.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\catalina-ha.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\catalina-storeconfig.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\catalina-tribes.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\catalina.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\ecj-4.4.2.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\el-api.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\jasper-el.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\jasper.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\jsp-api.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\servlet-api.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-api.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-coyote.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-dbcp.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-i18n-es.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-i18n-fr.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-i18n-ja.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-jdbc.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-jni.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-util-scan.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-util.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\tomcat-websocket.jar;C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\lib\websocket-api.jar;C:\Program Files\NetBeans 8.2\extide\ant\lib\ant-launcher.jar;C:\Program Files\NetBeans 8.2\extide\ant\lib\ant.jar;C:\Program Files\NetBeans 8.2\extide\ant\lib\ant-junit.jar;C:\Program Files\NetBeans 8.2\extide\ant\lib\ant-junit4.jar" />
     <property name="libs.itex.javadoc" value="" />
     <property name="libs.absolutelayout.src" value="C:\instaladores\Selenium\lib\cglib-nodep-3.2.4.jar;C:\instaladores\Selenium\lib\cglib-nodep-3.2.4.jar;C:\instaladores\Selenium\lib\commons-codec-1.10.jar;C:\instaladores\Selenium\lib\commons-exec-1.3.jar;C:\instaladores\Selenium\lib\commons-io-2.5.jar;C:\instaladores\Selenium\lib\commons-lang3-3.4.jar;C:\instaladores\Selenium\lib\commons-logging-1.2.jar;C:\instaladores\Selenium\lib\cssparser-0.9.20.jar;C:\instaladores\Selenium\lib\gson-2.3.1.jar;C:\instaladores\Selenium\lib\guava-21.0.jar;C:\instaladores\Selenium\lib\hamcrest-core-1.3.jar;C:\instaladores\Selenium\lib\hamcrest-library-1.3.jar;C:\instaladores\Selenium\lib\htmlunit-2.23.jar;C:\instaladores\Selenium\lib\htmlunit-core-js-2.23.jar;C:\instaladores\Selenium\lib\httpclient-4.5.2.jar;C:\instaladores\Selenium\lib\httpcore-4.4.4.jar;C:\instaladores\Selenium\lib\httpmime-4.5.2.jar;C:\instaladores\Selenium\lib\javax.servlet-api-3.1.0.jar;C:\instaladores\Selenium\lib\jetty-io-9.2.13.v20150730.jar;C:\instaladores\Selenium\lib\jetty-util-9.2.13.v20150730.jar;C:\instaladores\Selenium\lib\jna-4.1.0.jar;C:\instaladores\Selenium\lib\jna-platform-4.1.0.jar;C:\instaladores\Selenium\lib\junit-4.12.jar;C:\instaladores\Selenium\lib\neko-htmlunit-2.23.jar;C:\instaladores\Selenium\lib\phantomjsdriver-1.3.0.jar;C:\instaladores\Selenium\lib\sac-1.3.jar;C:\instaladores\Selenium\lib\serializer-2.7.2.jar;C:\instaladores\Selenium\lib\websocket-api-9.2.15.v20160210.jar;C:\instaladores\Selenium\lib\websocket-client-9.2.15.v20160210.jar;C:\instaladores\Selenium\lib\websocket-common-9.2.15.v20160210.jar;C:\instaladores\Selenium\lib\xalan-2.7.2.jar;C:\instaladores\Selenium\lib\xercesImpl-2.11.0.jar;C:\instaladores\Selenium\lib\xml-apis-1.4.01.jar" />
     <property name="libs.jpa20-persistence.classpath" value="C:\Program Files\NetBeans 8.2\java\modules\ext\eclipselink\javax.persistence_2.1.0.v201304241213.jar" />
@@ -411,16 +412,16 @@
     <property name="libs.hibernate4-persistence.src" value="" />
     <property name="libs.hibernate4-support.maven-pom" value="" />
     <property name="libs.Comet-GlassFish-v3.src" value="" />
-    <property name="war.content.additional" value="" />
     <property name="libs.restlib.javadoc" value="" />
+    <property name="war.content.additional" value="" />
+    <property name="j2ee.platform.embeddableejb.classpath" value="" />
     <property name="libs.JAXB-ENDORSED.classpath" value="C:\Program Files\NetBeans 8.2\ide\modules\ext\jaxb\api\jaxb-api.jar" />
     <property name="nb.internal.action.name" value="test" />
-    <property name="j2ee.platform.embeddableejb.classpath" value="" />
     <property name="forceRedeploy" value="false" />
     <property name="libs.javaee-api-7.0.javadoc" value="C:\Program Files\NetBeans 8.2\enterprise\docs\javaee-doc-api.jar" />
     <property name="libs.eclipselink.classpath" value="C:\Program Files\NetBeans 8.2\java\modules\ext\eclipselink\eclipselink.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\eclipselink\javax.persistence_2.1.0.v201304241213.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\eclipselink\org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar" />
-    <property name="libs.beans-binding.javadoc" value="C:\Program Files\NetBeans 8.2\java\docs\beansbinding-1.2.1-doc.zip" />
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="libs.beans-binding.javadoc" value="C:\Program Files\NetBeans 8.2\java\docs\beansbinding-1.2.1-doc.zip" />
     <property name="java.vm.vendor" value="Oracle Corporation" />
     <property name="libs.CopyLibs.classpath" value="/lib/org-netbeans-modules-java-j2seproject-copylibstask.jar" />
     <property name="libs.spring-framework300.classpath" value="C:\Program Files\NetBeans 8.2\ide\modules\org-apache-commons-logging.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\cglib-2.2.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-aop-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-aspects-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-beans-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-build-src-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-context-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-context-support-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-core-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-expression-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-framework-bom-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-instrument-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-instrument-tomcat-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-jdbc-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-jms-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-orm-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-oxm-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-struts-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-test-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-tx-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-web-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-webmvc-3.2.7.RELEASE.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\spring-3.0\spring-webmvc-portlet-3.2.7.RELEASE.jar" />
@@ -430,8 +431,8 @@
     <property name="libs.itex.src" value="" />
     <property name="libs.hibernate4-persistence.classpath" value="C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\antlr-2.7.7.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\c3p0-0.9.2.1.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\hibernate-c3p0-4.3.1.Final.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\mchange-commons-java-0.2.3.4.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\dom4j-1.6.1.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\ehcache-core-2.4.3.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\hibernate-ehcache-4.3.1.Final.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\hibernate-core-4.3.1.Final.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\jboss-logging-3.1.3.GA.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\hibernate-commons-annotations-4.0.4.Final.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\hibernate-entitymanager-4.3.1.Final.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\javassist-3.18.1-GA.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\jboss-transaction-api_1.2_spec-1.0.0.Final.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\slf4j-api-1.6.1.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\slf4j-simple-1.6.1.jar;C:\Program Files\NetBeans 8.2\java\modules\ext\hibernate4\hibernate-jpa-2.1-api-1.0.0.Final.jar" />
     <property name="libs.itex2.maven-pom" value="" />
-    <property name="dist.archive.excludes" value="" />
     <property name="libs.JAXB-ENDORSED.src" value="" />
+    <property name="dist.archive.excludes" value="" />
     <property name="libs.testng.javadoc" value="C:\Program Files\NetBeans 8.2\platform\docs\testng-6.8.1-javadoc.zip" />
     <property name="user.script" value="" />
     <property name="libs.PostgreSQLDriver.classpath" value="C:\Program Files\NetBeans 8.2\ide\modules\ext\postgresql-9.4.1209.jar" />
@@ -444,15 +445,15 @@
     <property name="ant.version" value="Apache Ant(TM) version 1.9.7 compiled on April 9 2016" />
     <property name="file.encoding" value="Cp1252" />
     <property name="build.classes.excludes" value="**/*.java,**/*.form" />
-    <property name="javadoc.nonavbar" value="false" />
     <property name="jdkBug6558476" value="false" />
+    <property name="javadoc.nonavbar" value="false" />
     <property name="libs.spring-webmvc4.0.classpath" value="C:\Program Files\NetBeans 8.2\java\modules\ext\spring-4\spring-webmvc-4.0.1.RELEASE.jar" />
     <property name="platform.active" value="default_platform" />
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
     <property name="war.ear.name" value="WebApplication.war" />
     <property name="libs.javaee-web-api-7.0.javadoc" value="C:\Program Files\NetBeans 8.2\enterprise\docs\javaee-doc-api.jar" />
   </properties>
-  <testcase classname="Controler.mensajes2Test" name="testGenerarRespuesta" time="0.038" />
+  <testcase classname="Controler.mensajes2Test" name="testGenerarRespuesta" time="0.004" />
   <system-out><![CDATA[generarRespuesta
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
