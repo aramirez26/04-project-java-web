@@ -21,8 +21,8 @@ public class Conexion implements Serializable {
     private Connection conexionn=null;
     private String servidor="";
     private String database="";
-    private String usuario="";
-    private String password="";
+    private String usuario="postgres";
+    private String password="paraguay";
     private String url="";
 
     public Conexion(String usuario, String password){

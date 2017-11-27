@@ -33,12 +33,13 @@ public class consultaClientes implements Serializable
         String database = "senatics";
         
         //String servidor = "localhost:5432";
-        //String database = "deb_aut_local";
+        //String database = "senatics";
           
         Class.forName("org.postgresql.Driver");
         String url="jdbc:postgresql://"+servidor+"/"+database;
         Connection conexion = null;
-        conexion = DriverManager.getConnection(url, "css", "css");
+        //conexion = DriverManager.getConnection(url, "css", "css");
+        conexion = DriverManager.getConnection(url, "postgres", "paraguay");
         Statement st = conexion.createStatement();
         ResultSet rs = st.executeQuery("select e.id, e.ci, e.nombre from clientes e order by e.nombre" );
         

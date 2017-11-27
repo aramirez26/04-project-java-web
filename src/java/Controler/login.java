@@ -58,6 +58,9 @@ public class login extends HttpServlet implements Serializable {
             
             String servidor = "192.168.126.19:5432";
             String database = "senatics";
+            
+            //String servidor = "localhost:5432";
+            //String database = "senatics";
 
             String url="";  
         
@@ -76,7 +79,8 @@ public class login extends HttpServlet implements Serializable {
             url="jdbc:postgresql://"+servidor+"/"+database;
             Connection conexion = null;
         try {
-            conexion = DriverManager.getConnection(url, "css", "css");
+            //conexion = DriverManager.getConnection(url, "css", "css");
+            conexion = DriverManager.getConnection(url, "postgres", "paraguay");
         } catch (SQLException ex) {
             Logger.getLogger(login.class.getName()).log(Level.SEVERE, null, ex);
         }
